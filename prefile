@@ -1,0 +1,4 @@
+wget -P /usr/bin/ https://raw.githubusercontent.com/KP-AGENT/unnati/main/answer
+wget -P /usr/bin/ https://raw.githubusercontent.com/KP-AGENT/unnati/main/raw
+chmod +x /usr/bin/answer
+chmod +x /usr/bin/raw
